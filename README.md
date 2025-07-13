@@ -4,7 +4,7 @@
 
 ChronoNav is a command-line tool that makes dealing with timezones simple and intuitive. Whether you need a quick glance at world clocks, want to know the current time for a colleague overseas, or need to schedule a meeting across multiple timezones, ChronoNav has you covered.
 
-![Demo Screenshot](https://ibb.co/BV3JJYw9)
+![Demo Screenshot](https://raw.githubusercontent.com/vivek378521/chrononav/refs/heads/main/assets/demo.png)
 
 ## Key Features
 
